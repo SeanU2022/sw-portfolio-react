@@ -1,11 +1,11 @@
 {
-  "main.js": "/sw-portfolio-react/static/js/main.68cdcd8f.chunk.js",
-  "main.js.map": "/sw-portfolio-react/static/js/main.68cdcd8f.chunk.js.map",
+  "main.js": "/sw-portfolio-react/static/js/main.b2734819.chunk.js",
+  "main.js.map": "/sw-portfolio-react/static/js/main.b2734819.chunk.js.map",
   "static/js/1.8d636f36.chunk.js": "/sw-portfolio-react/static/js/1.8d636f36.chunk.js",
   "static/js/1.8d636f36.chunk.js.map": "/sw-portfolio-react/static/js/1.8d636f36.chunk.js.map",
   "runtime~main.js": "/sw-portfolio-react/static/js/runtime~main.c7aefe8f.js",
   "runtime~main.js.map": "/sw-portfolio-react/static/js/runtime~main.c7aefe8f.js.map",
   "index.html": "/sw-portfolio-react/index.html",
-  "precache-manifest.278571e945c7016bff453c48fa56f888.js": "/sw-portfolio-react/precache-manifest.278571e945c7016bff453c48fa56f888.js",
+  "precache-manifest.85c7e1d3870f2d32770d3ea0832d79e0.js": "/sw-portfolio-react/precache-manifest.85c7e1d3870f2d32770d3ea0832d79e0.js",
   "service-worker.js": "/sw-portfolio-react/service-worker.js"
 }

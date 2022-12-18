@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{3:function(e,n,t){e.exports=t(8)},8:function(e,n,t){"use strict";t.r(n);var r=t(0),o=t.n(r),a=t(2);var l=function(){return o.a.createElement("p",null,"Hello World! Here is ","text to show that gh-pages does WORK!")};var u=function(){return o.a.createElement(l,null)};t.n(a).a.render(o.a.createElement(u,null),document.getElementById("root"))}},[[3,2,1]]]);
+//# sourceMappingURL=main.b2734819.chunk.js.map
