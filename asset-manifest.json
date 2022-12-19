@@ -1,11 +1,16 @@
 {
-  "main.js": "/sw-portfolio-react/static/js/main.b2734819.chunk.js",
-  "main.js.map": "/sw-portfolio-react/static/js/main.b2734819.chunk.js.map",
-  "static/js/1.8d636f36.chunk.js": "/sw-portfolio-react/static/js/1.8d636f36.chunk.js",
-  "static/js/1.8d636f36.chunk.js.map": "/sw-portfolio-react/static/js/1.8d636f36.chunk.js.map",
+  "main.css": "/sw-portfolio-react/static/css/main.f73e69a7.chunk.css",
+  "main.js": "/sw-portfolio-react/static/js/main.2062354f.chunk.js",
+  "main.js.map": "/sw-portfolio-react/static/js/main.2062354f.chunk.js.map",
+  "static/css/1.dd41faf9.chunk.css": "/sw-portfolio-react/static/css/1.dd41faf9.chunk.css",
+  "static/js/1.6fcf2005.chunk.js": "/sw-portfolio-react/static/js/1.6fcf2005.chunk.js",
+  "static/js/1.6fcf2005.chunk.js.map": "/sw-portfolio-react/static/js/1.6fcf2005.chunk.js.map",
   "runtime~main.js": "/sw-portfolio-react/static/js/runtime~main.c7aefe8f.js",
   "runtime~main.js.map": "/sw-portfolio-react/static/js/runtime~main.c7aefe8f.js.map",
+  "static/media/01-horiseon.jpg": "/sw-portfolio-react/static/media/01-horiseon.29586375.jpg",
+  "static/css/1.dd41faf9.chunk.css.map": "/sw-portfolio-react/static/css/1.dd41faf9.chunk.css.map",
+  "static/css/main.f73e69a7.chunk.css.map": "/sw-portfolio-react/static/css/main.f73e69a7.chunk.css.map",
   "index.html": "/sw-portfolio-react/index.html",
-  "precache-manifest.85c7e1d3870f2d32770d3ea0832d79e0.js": "/sw-portfolio-react/precache-manifest.85c7e1d3870f2d32770d3ea0832d79e0.js",
+  "precache-manifest.76ecef31ccecaa5c22a9c128135944ec.js": "/sw-portfolio-react/precache-manifest.76ecef31ccecaa5c22a9c128135944ec.js",
   "service-worker.js": "/sw-portfolio-react/service-worker.js"
 }
