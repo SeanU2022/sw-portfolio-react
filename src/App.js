@@ -1,18 +1,24 @@
 import React from "react";
-import Header from "./components/Header";
-import Section from "./components/Section";
-import Navbar from "./components/Navbar";
-import Footer from "./components/Footer";
+import PortfolioContainer from "./components/PortfolioContainer";
 
-function App() {
-  return (
-    <div>
-      <Navbar />
-      <Header />
-      <Section />
-      <Footer />
-    </div>
-  );
-}
+const App = () => <PortfolioContainer />;
+
+// import Navbar from "./components/Navbar";
+// import Header from "./components/Header";
+// import Section from "./components/Section";
+// import Form from './components/Form/index';
+// import Footer from "./components/Footer";
+
+// function App() {
+//   return (
+//     <div>
+//       <Navbar />
+//       <Header />
+//       <Section />
+//       <Form />
+//       <Footer />
+//     </div>
+//   );
+// }
 
 export default App;
