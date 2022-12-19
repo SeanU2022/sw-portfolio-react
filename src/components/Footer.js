@@ -22,7 +22,7 @@ const styles = {
 function Footer() {
   return (
     <footer style={styles.footerStyle} className="footer">
-      <h2 style={styles.footerStyle}>Footer</h2>
+      <h2 style={styles.footerStyle}>Sean Wallace</h2>
     </footer>
   );
 }

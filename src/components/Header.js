@@ -10,10 +10,10 @@ import '../styles/Header.css';
 
 const styles = {
   headerStyle: {
-    background: 'red',
+    background: 'blue',
   },
   headingStyle: {
-    fontSize: '100px',
+    fontSize: '60px',
   },
 };
 
@@ -22,7 +22,9 @@ const styles = {
 function Header() {
   return (
     <header style={styles.headerStyle} className="header">
-      <h1 style={styles.headingStyle}>Welcome</h1>
+      <h1 style={styles.headingStyle}>Welcome to my portfolio!</h1>
+      <p id="hero-blurb">A showcase of Full Stack development</p>
+
     </header>
   );
 }

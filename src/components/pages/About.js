@@ -5,12 +5,11 @@ export default function About() {
     <div>
       <h1>About Page</h1>
       <p>
-        Nunc pharetra finibus est at efficitur. Praesent sed congue diam.
-        Integer gravida dui mauris, ut interdum nunc egestas sed. Aenean sed
-        mollis diam. Nunc aliquet risus ac finibus porta. Nam quis arcu non
-        lectus tincidunt fermentum. Suspendisse aliquet orci porta quam semper
-        imperdiet. Praesent euismod mi justo, faucibus scelerisque risus cursus
-        in. Sed rhoncus mollis diam, sit amet facilisis lectus blandit at.
+      Starting as Software Engineer I have had success in Transport, Finance, Health industries both private and government. Projects include Billing, Business Licensing, Hospital Data Warehousing, and Small Device pilots.
+
+I have supervised various teams as Senior Developer, Business Analyst, Project Manager, and Applications Manager which makes me a good team player to cooperate with others in harnessing technology for successful outcomes.
+
+This portfolio demonstrates I have the skills to utilise my technical talents for robust business solutions.
       </p>
     </div>
   );
