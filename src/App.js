@@ -1,10 +1,18 @@
-import React from 'react';
-// TODO: Add a comment explaining what this import statement is doing
-import HelloReact from './components/HelloReact';
+import React from "react";
+import Header from "./components/Header";
+import Section from "./components/Section";
+import Navbar from "./components/Navbar";
+import Footer from "./components/Footer";
 
-// TODO: Add a comment explaining the purpose of the App component
 function App() {
-  return <HelloReact />;
+  return (
+    <div>
+      <Navbar />
+      <Header />
+      <Section />
+      <Footer />
+    </div>
+  );
 }
 
 export default App;

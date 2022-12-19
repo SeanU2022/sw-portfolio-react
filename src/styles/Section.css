@@ -1,0 +1,106 @@
+:root {
+  --blue-bondi-ocean: rgba(67, 93, 137, 1);
+  --blue-bondi-sky: rgba(83, 133, 197, 1);
+  --blue-bondi-sky-edge: rgba(63, 106, 176, 1);
+  --white-bondi-cloud: rgba(225, 226, 224, 1);
+  --sand-tama-light: rgba(210, 193, 170, 1);
+  --sand-tama-heavy: rgba(194, 179, 160, 1);
+  --blue-tama-ocean: rgba(59, 108, 129, 1);
+  --crimson-liquids-contrast: rgba(212, 109, 106, 1);
+}
+
+.section {
+  /* background: #f3e5f5;
+  padding: 20px; */
+  display: flex;   /* children to use flex */
+  background-color: var(--white-bondi-cloud);
+}
+
+.section h2 {
+  text-align: center;
+}
+
+.flexbox-container {
+  flex-direction: column;
+}
+
+.flexbox-item {
+  margin: 10px;
+  min-height: 100px;
+  display: flex;
+}
+
+.flexbox-item h3 {
+  flex-grow: 0;       /* do not grow */
+  flex-shrink: 0;       /* do not shrink */
+  flex-basis: 100px;
+  padding: 10px;
+  margin: 10px;
+  width: 100px;
+  text-align: right;
+  border-right: 2px solid var(--blue-bondi-ocean);
+}
+
+.flexbox-item p {
+  padding: 10px;
+  margin: 10px;
+  text-align: left;
+}
+
+/* PROJECT CARDS START */
+
+#article-project-work {
+  margin: 10px;
+  min-height: 100px;
+  display: flex;
+}
+
+.projects {
+  flex: 4;
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.section-project-card {
+  border-color: var(--blue-bondi-sky);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+  padding: 10px;
+  flex: 1 1 auto;       /* grow shrink*/
+}
+
+.section-project-card header {
+  color: var(--white-bondi-cloud);
+  padding: 10px;
+}
+
+.section-project-card p {
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  font-size: x-small;
+}
+
+.section-project-card a {
+  font-size: x-small;
+}
+
+.section-project-card img {
+  width: 200px;
+  height: 200px;
+  /* flex-basis: 100px; */
+  justify-content: space-around;
+  align-items: stretch;
+}
+
+#first-project img {
+  /* flex: 1 1 300px; */
+  justify-content: space-around;
+  /* align-items: stretch; */
+  /* width: 100%;
+  height: 100%; */
+  object-fit: fill;
+}

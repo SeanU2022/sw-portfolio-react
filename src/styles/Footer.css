@@ -1,0 +1,12 @@
+.footer {
+  background: yellow;
+  height: 200px;
+}
+
+.footer h2 {
+  margin: 0;
+  padding-top: 75px;
+  text-align: center;
+  color: green;
+  font-size: 3rem;
+}
