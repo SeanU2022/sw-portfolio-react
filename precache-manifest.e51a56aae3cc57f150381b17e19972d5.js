@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "980f9bfb46bbf438d947",
-    "url": "/sw-portfolio-react/static/css/main.1d430ba2.chunk.css"
+    "revision": "509d41a75ecfa1f5a957",
+    "url": "/sw-portfolio-react/static/css/main.c29458a7.chunk.css"
   },
   {
-    "revision": "980f9bfb46bbf438d947",
-    "url": "/sw-portfolio-react/static/js/main.980f9bfb.chunk.js"
+    "revision": "509d41a75ecfa1f5a957",
+    "url": "/sw-portfolio-react/static/js/main.509d41a7.chunk.js"
   },
   {
-    "revision": "c4ec1306a50d28b68f1f",
-    "url": "/sw-portfolio-react/static/css/1.c3fe96c0.chunk.css"
+    "revision": "78e59045458cbddde7c4",
+    "url": "/sw-portfolio-react/static/css/1.32f16663.chunk.css"
   },
   {
-    "revision": "c4ec1306a50d28b68f1f",
-    "url": "/sw-portfolio-react/static/js/1.c4ec1306.chunk.js"
+    "revision": "78e59045458cbddde7c4",
+    "url": "/sw-portfolio-react/static/js/1.78e59045.chunk.js"
   },
   {
     "revision": "c7aefe8f32cadf073518",
@@ -22,6 +22,14 @@ self.__precacheManifest = [
   {
     "revision": "605c7418e63fde0e4493570a6e030bf6",
     "url": "/sw-portfolio-react/static/media/20220808_151715-mincut.605c7418.jpg"
+  },
+  {
+    "revision": "f42765cc21186b51db4fdf33fa325c78",
+    "url": "/sw-portfolio-react/static/media/20220808_111453-colours-sand.f42765cc.jpg"
+  },
+  {
+    "revision": "598a607ca153e0b6783a351c3a676070",
+    "url": "/sw-portfolio-react/static/media/20220808_110827-colours.598a607c.jpg"
   },
   {
     "revision": "29586375a196b5de4f082bf7f8493595",
@@ -52,7 +60,7 @@ self.__precacheManifest = [
     "url": "/sw-portfolio-react/static/media/07and08-project1-realocator.70a54918.png"
   },
   {
-    "revision": "fa7375706defb5b6c8d1b3946184574a",
+    "revision": "9eca13b308f4d2d23b190e4600d30a6f",
     "url": "/sw-portfolio-react/index.html"
   }
 ];
