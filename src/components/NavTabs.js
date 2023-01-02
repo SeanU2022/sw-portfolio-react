@@ -1,5 +1,20 @@
 import React from 'react';
 
+const styles = {
+  navTabStyle: {
+    background: 'blue',
+    color: 'yellow',
+  },
+  navItemStyle: {
+    background: 'green',
+    color: 'red',
+  },
+};
+
+// to be completed 
+// .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active
+
+
 // Here we are using object destructuring assignment to pluck off our variables from the props object
 // We assign them to their own variable names
 function NavTabs({ currentPage, handlePageChange }) {

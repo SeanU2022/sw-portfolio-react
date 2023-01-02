@@ -1,0 +1,15 @@
+:root {
+  --blue-bondi-ocean: rgba(67, 93, 137, 1);
+  --blue-bondi-sky: rgba(83, 133, 197, 1);
+  --blue-bondi-sky2: rgba(70, 116, 185, 1);
+  --blue-bondi-sky-edge: rgba(63, 106, 176, 1);
+  --white-bondi-cloud: rgba(225, 226, 224, 1);
+  --white-bondi-cloud-60: rgba(225, 226, 224, 0.6);
+  --sand-tama-light: rgba(210, 193, 170, 1);
+  --sand-tama-heavy: rgba(194, 179, 160, 1);
+  --blue-tama-ocean: rgba(59, 108, 129, 1);
+  --blue-tama-ocean-20: rgba(59, 108, 129, 0.2);
+  --blue-tama-ocean-40: rgba(59, 108, 129, 0.4);
+  --blue-tama-ocean2: rgba(13, 25, 53, 1);
+  --crimson-liquids-contrast: rgba(212, 109, 106, 1);
+}

@@ -1,5 +1,7 @@
+@import "./colors.css";
+
 .footer {
-  background: yellow;
+  background: var(--blue-tama-ocean2);
   height: 200px;
 }
 
@@ -7,6 +9,6 @@
   margin: 0;
   padding-top: 75px;
   text-align: center;
-  color: green;
+  color: var(--sand-tama-heavy);
   font-size: 3rem;
 }

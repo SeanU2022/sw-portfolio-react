@@ -20,7 +20,7 @@ import pic7 from '../images/07and08-project1-realocator.png'
 
 const styles = {
   sectionStyles: {
-    background: 'orange',
+    background: "var(--sand-tama-heavy)",
   },
 };
 

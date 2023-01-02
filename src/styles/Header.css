@@ -1,5 +1,7 @@
+@import "./colors.css";
+
 .header {
-  background: #b71775;
+  background: var(--blue-bondi-sky2);
   height: 200px;
 }
 
@@ -7,6 +9,6 @@
   margin: 0;
   padding-top: 75px;
   text-align: center;
-  color: white;
+  color: var(--sand-tama-light);
   font-size: 3rem;
 }

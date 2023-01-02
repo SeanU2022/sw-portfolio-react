@@ -1,13 +1,4 @@
-:root {
-  --blue-bondi-ocean: rgba(67, 93, 137, 1);
-  --blue-bondi-sky: rgba(83, 133, 197, 1);
-  --blue-bondi-sky-edge: rgba(63, 106, 176, 1);
-  --white-bondi-cloud: rgba(225, 226, 224, 1);
-  --sand-tama-light: rgba(210, 193, 170, 1);
-  --sand-tama-heavy: rgba(194, 179, 160, 1);
-  --blue-tama-ocean: rgba(59, 108, 129, 1);
-  --crimson-liquids-contrast: rgba(212, 109, 106, 1);
-}
+@import "./colors.css";
 
 .section {
   /* background: #f3e5f5;

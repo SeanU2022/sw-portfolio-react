@@ -1,0 +1,15 @@
+/* Home/index.js */
+@import "../../../styles/colors.css";
+
+.home {
+  margin: 20px;
+}
+
+/* Centered text */
+.blurb {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: var(--blue-bondi-ocean);
+}

@@ -47,26 +47,32 @@ export default function Navbar() {
           justifyContent: 'flex-end',
         }}
       >
+
         <div style={linkStyle}>
           {/* <a href="#">Home</a> */}
           <p>Home</p>
         </div>
+
         <div style={linkStyle}>
           {/* <a href="#">Login</a> */}
           <p>Login</p>
         </div>
+
         <div style={linkStyle}>
           {/* <a href="#">Register</a> */}
           <p>Register</p>
         </div>
+
         <div style={linkStyle}>
           {/* <a href="#">About</a> */}
           <p>About</p>
         </div>
+
         <div style={linkStyle}>
           {/* <a href="#">Contact</a> */}
           <p>Contact</p>
         </div>
+
       </section>
     </nav>
   );
